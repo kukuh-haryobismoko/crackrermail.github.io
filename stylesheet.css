@@ -1095,24 +1095,31 @@ audio {
 }
 #b1,#b11 {
 	background-image: url('b1.png');
+	background-size: 50px 70px;
 }
 #b2,#b22 {
 	background-image: url('b2.png');
+	background-size: 50px 70px;
 }
 #b3,#b33 {
 	background-image: url('b3.png');
+	background-size: 50px 70px;
 }
 #b4,#b44{
 	background-image: url('b4.png');
+	background-size: 50px 70px;
 }
 #b5,#b55{
 	background-image: url('b5.png');
+	background-size: 50px 70px;
 }
 #b6,#b66{
 	background-image: url('b6.png');
+	background-size: 50px 70px;
 }
 #b7,#b77{
 	background-image: url('b7.png');
+	background-size: 50px 70px;
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
